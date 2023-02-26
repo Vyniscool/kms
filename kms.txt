@@ -1,15 +1,75 @@
 [
 
 {
-"title":"PF Hitbox Expander GUI",
-"tagone":"Phantom Forces",
-"excerpt":" loadstring(game:HttpGet("https://raw.githubusercontent.com/The3Bakers4565/Spicy-Bagel/main/Other/Phantom_Forces/Hit_Box_Expander.lua"))()",
+"title":"V.G Hub",
+"tagone":"# Arsenal",
+"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/Q7SUCpRY'))()",
 },
 
 {
-"title":"Arsenal NIGHTHUB",
-"tagone":"Arsenal",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Dark-Scripts/Arsenal-Scripts/main/idkV2'))()",
+"title":"Phantom Forces ESP",
+"tagone":"# Phantom Forces",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyGameScriptHub/main/PhantomForcesESP'))()",
+},
+
+{
+"title":"Dex Hub",
+"tagone":"# Arsenal",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HonestlyDex/DexHub/main/V3.lua'))()",
+},
+
+{
+"title":"Flee the Facility GUI",
+"tagone":"# Flee the Facility",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/khoaScript/scripts/master/flee-the-facility.lua'))()",
+},
+
+{
+"title":"Strucid GUI",
+"tagone":"# Strucid",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/KuriWasTaken/PhantomMonkey/main/StrucidMonkey.lua'))()",
+},
+
+{
+"title":"Murder Mystery 2 GUI",
+"tagone":"# Murder Mystery 2",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Doggo-cryto/EclipseMM2/master/Script'))()",
+},
+
+{
+"title":"Project Lazarus Gun Mods",
+"tagone":"# Project Lazarus",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Doggo-cryto/EclipseMM2/master/Script'))()",
+},
+
+{
+"title":"Super Doomspire GUI",
+"tagone":"# Super Doomspire",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyGameScriptHub/main/SuperDoomspire'))()",
+},
+
+{
+"title":"Breaking Point GUI",
+"tagone":"# Breaking Point",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/1iseo/breaking-point-public/main/main.lua'))()",
+},
+
+{
+"title":"Breaking Point Kill All With Gun",
+"tagone":"# Breaking Point",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyGameScriptHub/main/BreakingPointAutoKill'))()",
+},
+
+{
+"title":"Find The Citrines Auto-Find",
+"tagone":"# Find the Citrines",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyGameScriptHub/main/CitrineAutoFinder'))()",
+},
+
+{
+"title":"Uno Bot",
+"tagone":"# Uno",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyGameScriptHub/main/ProjectLazarusGunMods'))()",
 }
 
 ]
