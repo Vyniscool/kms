@@ -70,6 +70,54 @@
 "title":"Uno Bot",
 "tagone":"# Uno",
 "excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyGameScriptHub/main/ProjectLazarusGunMods'))()",
+},
+
+{
+"title":"Infinite Yield",
+"tagone":"# Admin",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
+},
+
+{
+"title":"Fates Admin",
+"tagone":"# Admin",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua'))()",
+},
+
+{
+"title":"Hydroxide Remote Spy",
+"tagone":"# Remote Spy",
+"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/S4sM7Hh8'))()",
+},
+
+{
+"title":"Dark Dex V3",
+"tagone":"# Dex",
+"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/YREfugjX'))()",
+},
+
+{
+"title":"Owl Hub",
+"tagone":"# Hub",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt'))()",
+},
+
+{
+"title":"Universal ESP and aimbot",
+"tagone":"# Universal",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Blissful4992/Miscellaneous/main/UNIVERSAL.lua'))()",
+},
+
+{
+"title":"Solaris Hub",
+"tagone":"# Hub",
+"excerpt":"loadstring(game:HttpGet('https://solarishub.dev/script.lua'))()",
+},
+
+{
+"title":"Overflow Admin",
+"tagone":"# Admin",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyScriptHub/main/OverFlow%20Admin'))()",
 }
 
 ]
