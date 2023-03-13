@@ -1,123 +1,39 @@
 [
 
 {
-"title":"V.G Hub",
-"tagone":"# Arsenal",
-"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/Q7SUCpRY'))()",
-},
-
-{
-"title":"Phantom Forces ESP",
-"tagone":"# Phantom Forces",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyGameScriptHub/main/PhantomForcesESP'))()",
-},
-
-{
-"title":"Dex Hub",
-"tagone":"# Arsenal",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HonestlyDex/DexHub/main/V3.lua'))()",
-},
-
-{
-"title":"Flee the Facility GUI",
-"tagone":"# Flee the Facility",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/khoaScript/scripts/master/flee-the-facility.lua'))()",
-},
-
-{
-"title":"Strucid GUI",
-"tagone":"# Strucid",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/KuriWasTaken/PhantomMonkey/main/StrucidMonkey.lua'))()",
-},
-
-{
-"title":"Murder Mystery 2 GUI",
-"tagone":"# Murder Mystery 2",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Doggo-cryto/EclipseMM2/master/Script'))()",
-},
-
-{
-"title":"Project Lazarus Gun Mods",
-"tagone":"# Project Lazarus",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Doggo-cryto/EclipseMM2/master/Script'))()",
-},
-
-{
-"title":"Super Doomspire GUI",
-"tagone":"# Super Doomspire",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyGameScriptHub/main/SuperDoomspire'))()",
-},
-
-{
-"title":"Breaking Point GUI",
-"tagone":"# Breaking Point",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/1iseo/breaking-point-public/main/main.lua'))()",
-},
-
-{
-"title":"Breaking Point Kill All With Gun",
-"tagone":"# Breaking Point",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyGameScriptHub/main/BreakingPointAutoKill'))()",
-},
-
-{
-"title":"Find The Citrines Auto-Find",
-"tagone":"# Find the Citrines",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyGameScriptHub/main/CitrineAutoFinder'))()",
-},
-
-{
-"title":"Uno Bot",
-"tagone":"# Uno",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyGameScriptHub/main/ProjectLazarusGunMods'))()",
-},
-
-{
 "title":"Infinite Yield",
 "tagone":"# Admin",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source%27))()",
 },
 
 {
 "title":"Fates Admin",
 "tagone":"# Admin",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua'))()",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua%27))()",
 },
 
 {
 "title":"Hydroxide Remote Spy",
 "tagone":"# Remote Spy",
-"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/S4sM7Hh8'))()",
+"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/S4sM7Hh8%27))()",
 },
 
 {
 "title":"Dark Dex V3",
 "tagone":"# Dex",
-"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/YREfugjX'))()",
+"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/YREfugjX%27))()",
 },
 
 {
 "title":"Owl Hub",
 "tagone":"# Hub",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt'))()",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt%27))()",
 },
 
 {
 "title":"Universal ESP and aimbot",
 "tagone":"# Universal",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Blissful4992/Miscellaneous/main/UNIVERSAL.lua'))()",
-},
-
-{
-"title":"Solaris Hub",
-"tagone":"# Hub",
-"excerpt":"loadstring(game:HttpGet('https://solarishub.dev/script.lua'))()",
-},
-
-{
-"title":"Overflow Admin",
-"tagone":"# Admin",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyScriptHub/main/OverFlow%20Admin'))()",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Blissful4992/Miscellaneous/main/UNIVERSAL.lua%27))()",
 }
 
 ]
